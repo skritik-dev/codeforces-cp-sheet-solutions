@@ -1,0 +1,31 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Git internals  
+.git/
+
+# VS Code
+.vscode/
+
+# Competitive programming helper files
+.cph/
+
+# Build artifacts
+*.out
+*.exe
+*.o
+*.obj
+*.class
+
+# Temporary / backup files
+*~
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# CMake / build directories (if you ever go there)
+build/
+cmake-build-*/
